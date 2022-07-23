@@ -4,6 +4,8 @@ Server and Webpage interact over REST API
 This repository has a webpage that interacts with a local server over a REST API.
 These API perform simple string operations.
 
+Download and extract assign3.zip.
+
 To run the webpage in your browser:
     click and drag index.html into the address bar.
 
